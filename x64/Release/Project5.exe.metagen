@@ -46,6 +46,7 @@ Class Project5.Table2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
     System.Windows.Forms.Label label1 : Public
     System.Windows.Forms.Label label2 : Public
     System.Windows.Forms.CheckedListBox checkedListBox_Tasks : Public
+    Int32 iTaskNumber : Public
 Class Project5.Lab1CLI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
