@@ -1,0 +1,16 @@
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.vcxproj.AssemblyReference.cache
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.Graphik.resources
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.Lab1CLI.resources
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.Table1.resources
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.Table2.resources
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.vcxproj.GenerateResource.cache
+C:\Users\ME\source\repos\Project5\x64\Release\Project5.exe
+E:\MPSZI_Lab1-3\x64\Release\Project5.vcxproj.AssemblyReference.cache
+E:\MPSZI_Lab1-3\x64\Release\Project5.vcxproj.SuggestedBindingRedirects.cache
+E:\MPSZI_Lab1-3\x64\Release\Project5.Graphik.resources
+E:\MPSZI_Lab1-3\x64\Release\Project5.Lab1CLI.resources
+E:\MPSZI_Lab1-3\x64\Release\Project5.Table1.resources
+E:\MPSZI_Lab1-3\x64\Release\Project5.Table2.resources
+E:\MPSZI_Lab1-3\x64\Release\Project5.vcxproj.GenerateResource.cache
+E:\MPSZI_Lab1-3\x64\Release\Project5.exe

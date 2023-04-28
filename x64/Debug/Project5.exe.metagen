@@ -1,0 +1,72 @@
+  Project5.Graphik.resources - Embedded, ContainedInManifestFile, 
+  Project5.Lab1CLI.resources - Embedded, ContainedInManifestFile, 
+  Project5.Table1.resources - Embedded, ContainedInManifestFile, 
+  Project5.Table2.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project5, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project5.Graphik: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.DataVisualization.Charting.Chart chart1 : Public
+Class Project5.Table1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.DataGridView dataGridView1 : Public
+Class Project5.Table2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.DataGridView dataGridView1 : Public
+    System.Windows.Forms.DataVisualization.Charting.Chart chart1 : Public
+    System.Windows.Forms.DataGridView dataGridView2 : Public
+    System.Windows.Forms.GroupBox Lab2_task : Public
+    System.Windows.Forms.Label Lab2_label_Dispersia : Public
+    System.Windows.Forms.Label Lab2_label_ME : Public
+    System.Windows.Forms.Label Lab2_label_kVariation : Public
+    System.Windows.Forms.Label lab2_label_D_in : Public
+    System.Windows.Forms.Label lab2_label_M_in : Public
+    System.Windows.Forms.Label lab2_label_Y_in : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.Label label2 : Public
+    System.Windows.Forms.CheckedListBox checkedListBox_Tasks : Public
+    Int32 iTaskNumber : Public
+Class Project5.Lab1CLI: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.CheckedListBox checkedListBox_Tasks : Public
+    Double a : Public
+    Double b : Public
+    Double prec : Public
+    Double dLambda : Public
+    Int32 N : Public
+    Boolean isLab1Box : Public
+    Boolean isLab2Box : Public
+    Boolean isLab3Box : Public
+    Boolean isLab4Box : Public
+    Boolean isLab5Box : Public
+  Methods:
+    Lab1(Double, Double, Int32, Int32): PrivateScope, Public, HideBySig
+    Lab2(Double, Double, Int32, Int32): PrivateScope, Public, HideBySig
+    Lab3(Double, Double, Int32, Int32, Double): PrivateScope, Public, HideBySig
+    Lab4(): PrivateScope, Public, HideBySig
+    SetValues(): PrivateScope, Public, HideBySig
+    CheckLabValues(): PrivateScope, Public, HideBySig
+    ResetChooseLabBoxes(): PrivateScope, Public, HideBySig
